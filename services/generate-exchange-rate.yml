@@ -2,4 +2,4 @@ cron:
   job:
     exchange:
       rate:
-        latest: 0 */5 * * * * # runs after every 5 mins
+        latest: 0 */2 * * * * # runs after every 2 mins
