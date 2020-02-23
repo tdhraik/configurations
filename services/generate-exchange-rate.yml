@@ -2,5 +2,5 @@ cron:
   job:
     exchange:
       rate:
-        latest: 0 */10 * * * *
-        historic: 0 */50 * * * *
+        latest: 0 */1 * * * *
+        historic: 0 */5 * * * *
