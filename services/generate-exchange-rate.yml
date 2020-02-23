@@ -1,2 +1,6 @@
-cron.job.exchange.rate.latest=0 */10 * * * *
-cron.job.exchange.rate.historic=0 */50 * * * *
+cron:
+  job:
+    exchange:
+      rate:
+        latest: 0 */10 * * * *
+        historic: 0 */50 * * * *
